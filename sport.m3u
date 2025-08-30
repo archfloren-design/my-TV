@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1  group-title="mylist" tvg-logo="",山东体育休闲
+https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&t=1755401429&token=dbbadec0759fe1c10eb36f7ebbd9dc67
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangdong5.png",广东体育
+https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&t=1755401429&token=accd755cff99bdea967c2d45e86cdb3b
+#EXTINF:-1  group-title="mylist" tvg-logo="",新疆体育健康
+https://stream.iptv-search.com/main.php?id=%E6%96%B0%E7%96%86%E4%BD%93%E8%82%B2%E5%81%A5%E5%BA%B7&t=1755401429&token=06e421a4f2699087ad8152fdb7b56434
+#EXTINF:-1  group-title="mylist" tvg-logo="",长春文旅体育
+https://stream.iptv-search.com/main.php?id=%E9%95%BF%E6%98%A5%E6%96%87%E6%97%85%E4%BD%93%E8%82%B2&t=1755401429&token=91aa27d87b3b8cc958ac941b6a5ac309
